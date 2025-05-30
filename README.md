@@ -43,11 +43,11 @@ These modules are under active development and will be released soon:
 
 ## 📦 Tech Stack
 
-* Python 🐍
-* Streamlit ⚡
-* LangChain + LLM APIs 🤖
-* PyMuPDF 📘
-* Scikit-learn, NLTK, spaCy for difficulty scoring 🔬
+* Python 
+* Streamlit 
+* LangChain + LLM APIs 
+* PyMuPDF 
+* Scikit-learn, NLTK, spaCy for difficulty scoring 
 
 ---
 
