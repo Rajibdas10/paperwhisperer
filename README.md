@@ -1,14 +1,3 @@
-# paperwhisperer
-AI Companion to Understand Research Papers Better
-Great questions, Rajib! Let's tackle them one by one:
-
----
-
-### ✅ **1. README for PaperWhisperer**
-
-Here’s a **professional, recruiter-friendly README** you can use for your GitHub repo:
-
----
 
 # 📚 PaperWhisperer – Your AI Research Paper Companion
 
